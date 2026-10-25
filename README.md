@@ -175,4 +175,3 @@ Test coverage includes:
    Automated detection of departmental overtime surges, chronic late arrival clusters, and week-over-week attendance stability trends calculated from MongoDB records.
 3. **Workforce Forecasting (`GET /ai/workforce-forecast`)**:
    Empirical time-series projection analyzing historical onboarding velocity and headcount retention over time to forecast 6-month workforce requirements with upper and lower confidence intervals.
-=======
