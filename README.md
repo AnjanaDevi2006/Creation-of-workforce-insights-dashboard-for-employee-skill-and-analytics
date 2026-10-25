@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Workforce Management Automation System - Backend
 
 Production-grade, database-driven, secure monolithic backend built with **FastAPI**, **MongoDB (PyMongo)**, **Pydantic v2**, **Argon2id**, and **JWT**.
@@ -174,3 +175,6 @@ Test coverage includes:
    Automated detection of departmental overtime surges, chronic late arrival clusters, and week-over-week attendance stability trends calculated from MongoDB records.
 3. **Workforce Forecasting (`GET /ai/workforce-forecast`)**:
    Empirical time-series projection analyzing historical onboarding velocity and headcount retention over time to forecast 6-month workforce requirements with upper and lower confidence intervals.
+=======
+# Creation-of-workforce-insights-dashboard-for-employee-skill-and-analytics
+>>>>>>> 850a280b178bf0a998e0f948158be137c121b453
